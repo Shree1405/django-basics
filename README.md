@@ -22,8 +22,7 @@ Each folder contains a **mini project or concept-based app** built while learnin
 | 01-weather-app | Weather app using OpenWeather API |
 | 02-forms-and-models | Django forms and database basics |
 | 03-authentication | Login, signup, logout |
-| 04-crud-app | Basic CRUD application |
-| 05-rest-api-intro | Intro to Django REST Framework |
+
 
 ## 🎯 Goal
 To build strong Django foundations before moving to advanced topics and full-scale applications.
